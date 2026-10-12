@@ -3,7 +3,7 @@
   github: doyubkim/fluid-engine-dev
   description: Fluid simulation engine for computer graphics applications.
   _meta:
-    stars: 2089
+    stars: 2102
     last_commit: '2022-07-09'
     license: MIT
     language: C++
@@ -12,7 +12,7 @@
   github: camUrban/PteraSoftware
   description: Ptera Software is a fast, easy-to-use, and open-source software package for analyzing flapping-wing flight.
   _meta:
-    stars: 250
-    last_commit: '2026-06-25'
+    stars: 270
+    last_commit: '2026-10-12'
     license: MIT
     language: Python

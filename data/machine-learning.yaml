@@ -3,22 +3,22 @@
   github: allenai/allenact
   description: Python/PyTorch-based Research Framework for Embodied AI.
   _meta:
-    stars: 383
+    stars: 384
     last_commit: '2024-07-23'
     language: Python
 - name: Any4LeRobot
   github: Tavish9/any4lerobot
   description: A collection of utilities and tools for LeRobot.
   _meta:
-    stars: 1078
-    last_commit: '2026-06-23'
+    stars: 1169
+    last_commit: '2026-10-01'
     license: MIT
     language: Python
 - name: DLL
   github: wichtounet/dll
   description: Deep Learning Library (DLL) for C++.
   _meta:
-    stars: 687
+    stars: 688
     last_commit: '2025-05-27'
     license: MIT
     language: C++
@@ -27,7 +27,7 @@
   github: clab/dynet
   description: The Dynamic Neural Network Toolkit.
   _meta:
-    stars: 3434
+    stars: 3429
     last_commit: '2023-11-08'
     license: Apache-2.0
     language: C++
@@ -36,7 +36,7 @@
   github: FidoProject/Fido
   description: Lightweight C++ machine learning library for embedded electronics and robotics.
   _meta:
-    stars: 462
+    stars: 464
     last_commit: '2017-11-19'
     license: MIT
     language: C++
@@ -46,14 +46,15 @@
   description: Unified Machine Learning Framework.
   _meta:
     stars: 14168
-    last_commit: '2026-02-07'
+    last_commit: '2026-10-07'
+    archived: true
     language: Python
 - name: LeRobot
   github: huggingface/lerobot
   description: Pretrained models, datasets, and simulation environments for real-world robotics in PyTorch.
   _meta:
-    stars: 25353
-    last_commit: '2026-06-27'
+    stars: 28109
+    last_commit: '2026-10-12'
     license: Apache-2.0
     language: Python
 - name: LeRobot Episode Scoring Toolkit
@@ -61,7 +62,7 @@
   github: RoboticsData/score_lerobot_episodes
   description: One-click tool to score, filter, and export higher-quality LeRobot datasets.
   _meta:
-    stars: 69
+    stars: 77
     last_commit: '2026-03-13'
     license: Apache-2.0
     language: Python
@@ -69,7 +70,7 @@
   github: yixuan/MiniDNN
   description: A header-only C++ library for deep neural networks.
   _meta:
-    stars: 435
+    stars: 434
     last_commit: '2021-01-17'
     language: C++
 - name: mlpack
@@ -77,16 +78,16 @@
   github: mlpack/mlpack
   description: Scalable C++ machine learning library.
   _meta:
-    stars: 5669
-    last_commit: '2026-06-22'
+    stars: 5714
+    last_commit: '2026-10-06'
     language: C++
 - name: Gymnasium
   url: https://gymnasium.farama.org/
   github: Farama-Foundation/Gymnasium
   description: Developing and comparing reinforcement learning algorithms.
   _meta:
-    stars: 12101
-    last_commit: '2026-06-28'
+    stars: 12658
+    last_commit: '2026-10-10'
     license: MIT
     language: Python
 - name: gym-dart
@@ -100,7 +101,7 @@
   github: erlerobot/gym-gazebo
   description: OpenAI Gym environments for the Gazebo simulator.
   _meta:
-    stars: 846
+    stars: 845
     last_commit: '2019-03-16'
     archived: true
     license: GPL-3.0
@@ -117,14 +118,14 @@
   github: ARISE-Initiative/robosuite
   description: A modular simulation framework and benchmark for robot learning.
   _meta:
-    stars: 2483
-    last_commit: '2026-05-28'
+    stars: 2654
+    last_commit: '2026-07-11'
     language: Python
 - name: tiny-dnn
   url: http://tiny-dnn.readthedocs.io/en/latest/
   github: tiny-dnn/tiny-dnn
   description: Header only, dependency-free deep learning framework in C++14.
   _meta:
-    stars: 6017
+    stars: 6027
     last_commit: '2018-10-23'
     language: C++

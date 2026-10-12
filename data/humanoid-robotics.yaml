@@ -3,15 +3,15 @@
   github: robotology/icub-main
   description: Open-source cognitive humanoid robotic platform for embodied cognition research.
   _meta:
-    stars: 119
-    last_commit: '2026-06-06'
+    stars: 121
+    last_commit: '2026-08-27'
     language: C++
 - name: Humanoid-Gym
   url: https://github.com/roboterax/humanoid-gym
   github: roboterax/humanoid-gym
   description: Reinforcement learning environment for humanoid robot locomotion.
   _meta:
-    stars: 2029
+    stars: 2102
     last_commit: '2024-11-01'
     language: Python
 - name: Legged Gym
@@ -19,7 +19,7 @@
   github: leggedrobotics/legged_gym
   description: Isaac Gym environments for legged robot locomotion training.
   _meta:
-    stars: 3029
+    stars: 3143
     last_commit: '2025-05-29'
     language: Python
 - name: MuJoCo Menagerie
@@ -27,6 +27,6 @@
   github: google-deepmind/mujoco_menagerie
   description: Collection of well-tuned MuJoCo models for research and development.
   _meta:
-    stars: 3648
-    last_commit: '2026-06-15'
+    stars: 4174
+    last_commit: '2026-10-07'
     language: Python
